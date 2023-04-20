@@ -57,9 +57,10 @@ Runs under git-bash which uses
     
 ## On Jupyter
 
-## 		1) rename RENAME.env to .env the correct API KEYS
+## 		1) create the .env file and set the API KEYS
 
-	mv RENAME.env .env
+	ALPACA_API_KEY = "copy here"
+	ALPACA_SECRET_KEY = "copy here"
 
 ## 		2) open file and run:
 
