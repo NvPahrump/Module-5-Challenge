@@ -53,7 +53,7 @@ Runs under git-bash which uses
 
     cd Module_5_Challenge
     conda activate dev
-    jupyter lab
+	jupyter lab --ContentsManager.allow_hidden=True &
     
 ## On Jupyter
 
